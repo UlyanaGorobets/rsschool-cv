@@ -11,4 +11,5 @@
 * responsable
 * eager to learn
 * team worker
+* communicative and friendly
 --------------------
