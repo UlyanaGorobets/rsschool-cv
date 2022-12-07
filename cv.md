@@ -1,5 +1,6 @@
 # ULYANA GOROBETS
 ## Education
+* Lyceum #2
 * BSEU
 * Dalian University of Technology
 ------------
